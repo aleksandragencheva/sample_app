@@ -4,7 +4,7 @@ one:
 
 two:
   follower: michael
-  followed: user_1
+  followed: user_3
 
 three:
   follower: aleksandra
